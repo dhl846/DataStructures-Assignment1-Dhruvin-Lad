@@ -1,3 +1,5 @@
+package com.assignment1.question1;
+
 import java.util.Arrays;
 
 public class ArtifactVault {
@@ -104,7 +106,7 @@ public class ArtifactVault {
         }
     }
 
-    // Main method to test the ArtifactVault functionality
+    // Main method to test the com.assignment1.question1.ArtifactVault functionality
     public static void main(String[] args) {
         ArtifactVault vault = new ArtifactVault(5);
 

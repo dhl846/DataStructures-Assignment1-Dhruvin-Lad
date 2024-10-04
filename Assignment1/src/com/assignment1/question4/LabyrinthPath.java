@@ -1,3 +1,5 @@
+package com.assignment1.question4;
+
 public class LabyrinthPath {
     // Node class representing each location in the path
     private static class Node {
@@ -97,7 +99,7 @@ public class LabyrinthPath {
         System.out.println("End");
     }
 
-    // Main method to test the LabyrinthPath functionality
+    // Main method to test the com.assignment1.question4.LabyrinthPath functionality
     public static void main(String[] args) {
         LabyrinthPath path = new LabyrinthPath();
 

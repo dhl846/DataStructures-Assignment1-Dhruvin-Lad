@@ -1,3 +1,5 @@
+package com.assignment1.question2;
+
 public class ClueTree {
     // Node class representing each clue in the binary tree
     private static class Node {
@@ -119,7 +121,7 @@ public class ClueTree {
         return 1 + countCluesRec(root.left) + countCluesRec(root.right);
     }
 
-    // Main method to test the ClueTree functionality
+    // Main method to test the com.assignment1.question2.ClueTree functionality
     public static void main(String[] args) {
         ClueTree clueTree = new ClueTree();
 

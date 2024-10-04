@@ -1,3 +1,5 @@
+package com.assignment1.question5;
+
 import java.util.Stack;
 
 public class ScrollStack {
@@ -57,7 +59,7 @@ public class ScrollStack {
         }
     }
 
-    // Main method to test the ScrollStack functionality
+    // Main method to test the com.assignment1.question5.ScrollStack functionality
     public static void main(String[] args) {
         ScrollStack stack = new ScrollStack();
 

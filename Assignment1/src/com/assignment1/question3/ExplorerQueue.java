@@ -1,3 +1,5 @@
+package com.assignment1.question3;
+
 public class ExplorerQueue {
     private String[] queue;
     private int front, rear, size, capacity;
@@ -66,7 +68,7 @@ public class ExplorerQueue {
         }
     }
 
-    // Main method to test the ExplorerQueue functionality
+    // Main method to test the com.assignment1.question3.ExplorerQueue functionality
     public static void main(String[] args) {
         ExplorerQueue explorerQueue = new ExplorerQueue(5);
 
